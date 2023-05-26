@@ -1,2 +1,4 @@
 # Aula Aplicativo Relogio
- Uma  Aula aprendendo a criar um Aplicativo Mobile Relogio
+ Aula Realizada para aprender a criar um aplicativo Mobile.
+ 
+ Aplicativo em formato de relógio para cabeceira da cama.
